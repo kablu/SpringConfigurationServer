@@ -12,7 +12,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ExampleDriven/spring-cloud-config-example
+          uri: https://github.com/kablu/SpringConfigurationServer
           # The git repo will be cloned to this directory
           basedir: target/config
           # within the cloned git repo search for properties in this directory
